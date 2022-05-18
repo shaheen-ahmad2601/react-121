@@ -1,0 +1,46 @@
+{
+    "userInfo": [
+      {
+        "id" : 1,
+        "imgUrl" : "https://img.mensxp.com/media/content/2022/Apr/Times-MS-Dhoni-Outsmarted-His-Opponents1200_6257d9c2f0f27.jpeg",
+        "name" : "MSD Mahi",
+        "email" :   "msdhoni07@gmail.com",
+        "contactNo" : "+91-787387838"
+    },
+    {
+        "id" : 2,
+        "imgUrl" : "https://www.forbesindia.com/media/images/2021/Nov/img_172405_msdhoni.jpg",
+        "name" : "MSD Mahi",
+        "email" : "msdhoni07@gmail.com",
+        "contactNo" : "+91- 827878478378"
+    },
+    {
+        "id" : 3,
+        "imgUrl" : "https://www.forbesindia.com/media/images/2021/Nov/img_172405_msdhoni.jpg",
+        "name" : "MSD Mahi",
+        "email" :  "msdhoni07@gmail.com",
+        "contactNo" : "+91- 8278728378738"
+    },
+    {
+        "id" : 4,
+        "imgUrl" : "https://www.forbesindia.com/media/images/2021/Nov/img_172405_msdhoni.jpg",
+        "name" : "MSD Mahi",
+        "email" :   "msdhoni07@gmail.com",
+        "contactNo" : "+91-838937833878"
+    },
+    {
+        "id" : 5,
+        "imgUrl" : "https://www.forbesindia.com/media/images/2021/Nov/img_172405_msdhoni.jpg",
+        "name" : "MSD Mahi",
+        "email" :  "msdhoni07@gmail.com",
+        "contactNo" : "+91- 884784887"
+    },
+    {
+        "id" : 6,
+        "imgUrl" : "https://www.forbesindia.com/media/images/2021/Nov/img_172405_msdhoni.jpg",
+        "name" : "MSD Mahi",
+        "email" :  "msdhoni07@gmail.com",
+        "contactNo" : "+91- 847897844"
+    }
+    ]
+  }
