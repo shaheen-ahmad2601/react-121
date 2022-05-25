@@ -1,0 +1,99 @@
+[
+  {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Barbieri_-_ViaSophia25668.jpg",
+    "name": "Bangalore",
+    "id": 12,
+    "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+    "costForTwo": 400,
+    "minOrder": 80,
+    "deliveryTime": 45,
+    "rating": 1.1,
+    "votes": 2455,
+    "reviews": 54459,
+    "payment_methods": {
+      "card": true,
+      "cash": false
+    }
+  },
+  {
+    "src": "https://media.istockphoto.com/photos/foods-high-in-zinc-picture-id1289940519?k=20&m=1289940519&s=612x612&w=0&h=InoEP6rCE5Db9RYsjcv9P5CAbDydH9RxT_S34DkfJ9A=",
+    "name": "Delhi",
+    "id": 13,
+    "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+    "costForTwo": 546,
+    "minOrder": 80,
+    "deliveryTime": 45,
+    "rating": 2,
+    "votes": 2455,
+    "reviews": 54459,
+    "payment_methods": {
+      "card": true ,
+      "cash": false
+    }
+  },
+  {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Barbieri_-_ViaSophia25668.jpg",
+    "name": "mumbai",
+    "id": 14,
+    "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+    "costForTwo": 234,
+    "minOrder": 180,
+    "deliveryTime": 43,
+    "rating": 2,
+    "votes": 2455,
+    "reviews": 54459,
+    "payment_methods": {
+      "card": true,
+      "cash": false
+    }
+  },
+  {
+    "src": "https://media.istockphoto.com/photos/foods-high-in-zinc-picture-id1289940519?k=20&m=1289940519&s=612x612&w=0&h=InoEP6rCE5Db9RYsjcv9P5CAbDydH9RxT_S34DkfJ9A=",
+    "name": "hyderabad",
+    "id": 15,
+    "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+    "costForTwo": 123,
+    "minOrder": 40,
+    "deliveryTime": 45,
+    "rating": 3,
+    "votes": 3456,
+    "reviews": 45459,
+    "payment_methods": {
+      "card": false,
+      "cash": true
+    }
+  },
+  {
+    "src": "https://www.linguahouse.com/linguafiles/md5/d01dfa8621f83289155a3be0970fb0cb",
+    "name": "manali",
+    "id": 1,
+    "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+    "costForTwo": 378,
+    "minOrder": 20,
+    "deliveryTime": 45,
+    "rating": 4,
+    "votes": 5467,
+    "reviews": 98656,
+    "payment_methods": {
+      "card": true,
+      "cash": false
+    }
+  },
+  {
+    
+      "src": "https://www.linguahouse.com/linguafiles/md5/d01dfa8621f83289155a3be0970fb0cb",
+      "name": "Lucknow",
+      "id": 1,
+      "hungry": ["Banglore", "India", "Pizza-hut", "More"],
+      "costForTwo": 878,
+      "minOrder": 220,
+      "deliveryTime": 25,
+      "rating": 2,
+      "votes": 5467,
+      "reviews": 98656,
+      "payment_methods": {
+        "card":  false ,
+        "cash": true
+      }
+  }
+]
