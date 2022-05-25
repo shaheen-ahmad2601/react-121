@@ -3,7 +3,7 @@
 import React, {useState,useEffect} from 'react'
 import "./Home.css"
 var x;
-export default function(){
+const Home = ()=>{
   
     const [info , setInfo] = useState([])
     const [checkUser, setCheckUser] = useState("");
@@ -71,7 +71,7 @@ export default function(){
      
     useEffect(()=>{
       const getData = async()=>{
-        const data = await fetch("http://localhost:8090/userInfo").then((d)=>
+        const data = await fetch("http://localhost:8080/userInfo").then((d)=>
         d.json()
         )
       setInfo(data)
@@ -86,9 +86,9 @@ export default function(){
       {info.map((e)=>(
         <div className='usersInfo' onClick={()=> 
           userControl(e)}>
-            <div className='image'>
-              <img
-              style={{width:"50px",height:"50px",borderRadius:"50%"}} src={e.imgUrl} alt="" />
+            <div>
+              <img  className='image'
+              src={e.imgUrl} alt="" />
             </div>
             <div className='users'>
               <h3>{e.name}</h3>
@@ -102,5 +102,7 @@ export default function(){
     </div>
   )
 }
+
+export default Home
 
 
